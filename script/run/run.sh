@@ -15,7 +15,7 @@
 
 set -e
 
-VERSION="1.29.2"
+VERSION="1.29.2-py39"
 IMAGE="docker/compose:$VERSION"
 
 
